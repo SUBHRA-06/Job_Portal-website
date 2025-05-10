@@ -14,8 +14,8 @@ This repository contains the source code for a fully functional Job Portal Websi
 
 > Admin panel for managing users and job posts
 
-🚀 USAGE
-To use the Job_Portal site, simply clone this repository to your local machine and open the index.html file in your preferred web browser. You can customize the website by editing the HTML, CSS, and JavaScript files as needed. Make sure to replace the placeholder images in the img directory with your own images.
+🚀 USAGE 
+> To use the Job_Portal site, simply clone this repository to your local machine and open the index.html file in your preferred web browser. You can customize the website by editing the HTML, CSS, and JavaScript files as needed. Make sure to replace the placeholder images in the img directory with your own images.
 
-📄 LICENSE
-This project is licensed under the MIT License. This README provides an overview of the Job_Portal project, its features, file structure, usage instructions, guidelines for contributing, and licensing information. Adjust the sections and content as needed to fit your project.
+📄 LICENSE :
+> This project is licensed under the MIT License. This README provides an overview of the Job_Portal project, its features, file structure, usage instructions, guidelines for contributing, and licensing information. Adjust the sections and content as needed to fit your project.
